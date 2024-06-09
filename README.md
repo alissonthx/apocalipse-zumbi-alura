@@ -1,6 +1,6 @@
 <h1 align="center"> 3D Game Shooter </h1>
 <img src="./Assets/Gif/zombieCover.png" alt="" />
-<p>3D game make in unity.<a href="https://nymphdev.itch.io/apocalipse-zombie-v120">Itch page</a></p>
+<p>3D game made in unity.<a href="https://nymphdev.itch.io/apocalipse-zombie-v120">Itch page</a></p>
 
 <h1 align="center">Core Game</h1>
 <h2>Defeat to survive! </h2>
